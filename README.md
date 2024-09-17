@@ -25,6 +25,7 @@ GET "/calculacte"
 
 ## Работа с приложением
 Написаны unit тесты для базовой проверки расчетов.
+Также есть документация в Swagger.
 ```
-http://localhost:8080/api/swagger-ui/index.html
+http://localhost:8080/swagger-ui.html
 ```
